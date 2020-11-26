@@ -1,6 +1,4 @@
-# Yocto 2.7 for WISE710A1 - HackMD
-
-## Yocto 2.7 for WISE710A1
+# Yocto 2.7 for WISE710A1
 
 ### Prerequisites
 
@@ -328,6 +326,4 @@ $ git commit . -m "add some comment here..."
 $ bitbake-layers create-layer --priority 15 meta-test
 $ devtool update-recipe -a meta-test u-boot-imx      # all patches will be located in meta-test
 ```
-
-**tags: wise710a1, yocto, nxp, i.mx6**
 
