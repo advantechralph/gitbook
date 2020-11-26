@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [wise710a1](README.md)
 
 ## nodejs
 
@@ -8,5 +8,5 @@
 
 ## Yocto
 
-* [Untitled](yocto/untitled.md)
+* [Yocto 2.7 for WISE710A1 - HackMD](yocto/yocto-2.7-for-wise710a1.md)
 
